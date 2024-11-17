@@ -32,8 +32,8 @@ python encrypt_txt.py
 ```
 Usage 📂:
 
-Encrypt a File: Choose the file you want to encrypt, enter your password, and click "Encrypt".
-Decrypt a File: Choose an encrypted .enc file, enter the same password used for encryption, and click "Decrypt".
+**Encrypt a File:** Choose the file you want to encrypt, enter your password, and click "Encrypt".
+**Decrypt a File:** Choose an encrypted .enc file, enter the same password used for encryption, and click "Decrypt".
 
 Contributing 💻:
 
